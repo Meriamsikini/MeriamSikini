@@ -1,5 +1,15 @@
 
 ## 🌐 Socials:
+
+ <div style="display: flex; align-items: center; margin: 0;">
+    <div style="font-size: 1.5em; margin-right: 10px; margin-top: 10px;">Connect with me:</div>
+    <div>
+      <a href="https://www.linkedin.com/in/meriam-sikini-452410247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+      </a>
+    </div>
+  </div>
+
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/meriam-sikini-452410247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
