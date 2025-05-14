@@ -1,6 +1,13 @@
 <p align="center"> <img height="300px" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="sikini" /> </p>
 
-## 🌐 Socials:
+<h1 align="center">Hi 👋, I'm Sikini Meriam</h1>
+<h3 align="center">📊 Big Data & AI Master's Student | Passionate About Data-Driven Innovation</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=meriamsikini&label=Profile%20views&color=0e75b6&style=flat" alt="meriamsikini" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meriamsikini" alt="meriamsikini" /></a> </p>
+
 
  <div style="display: flex; align-items: center; margin: 0;">
     <div style="font-size: 1.5em; margin-right: 10px; margin-top: 10px;">Connect with me:</div>
@@ -10,7 +17,6 @@
       </a>
     </div>
   </div>
-
 
 
 - 📫 How to reach me **meriamsikini@gmail.com**
