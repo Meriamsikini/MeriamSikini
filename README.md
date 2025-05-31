@@ -28,6 +28,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=meriamsikini&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamsikini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+## 📊 GitHub Stats:
+
+<!-- Stats globales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meriamsikini&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+<!-- Streak (séries de contributions) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=meriamsikini&theme=radical&hide_border=false)
+
+<!-- Langages les plus utilisés -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamsikini&layout=compact&theme=radical&hide_border=false&langs_count=6)
+
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamsikini&layout=compact&theme=radical&langs_count=6)
 
