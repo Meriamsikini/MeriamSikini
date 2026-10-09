@@ -4,7 +4,7 @@
 <h3 align="center">📊 Big Data & AI Master's Student | Passionate About Data-Driven Innovation</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meriamsikini&label=Profile%20views&color=0e75b6&style=flat" alt="meriamsikini" /> </p>
+
 
 
 <p align="left"> <img src="https://www.pexels.com/video/futuristic-robot-dancing-with-lightning-backdrop-29755657/" alt="meriamsikini" /> </p>
