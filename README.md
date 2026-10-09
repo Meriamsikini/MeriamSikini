@@ -1,5 +1,5 @@
 <p align="center"> <img height="300px" src="https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif" alt="sikini" /> </p>
-
+<p align="center"> <img height="300px" src="https://www.pexels.com/download/video/29755657/" alt="sikini" /> </p>
 <h1 align="center">Hi 👋, I'm Sikini Meriam</h1>
 <h3 align="center">📊 Big Data & AI Master's Student | Passionate About Data-Driven Innovation</h3>
 
