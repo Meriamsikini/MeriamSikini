@@ -35,7 +35,15 @@
 <!-- Langages les plus utilisés -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meriamsikini&layout=compact&theme=radical&hide_border=false&langs_count=10&cache_seconds=10)
 
+<h1> GitHub Stats:</h1>
 
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdelghanix10&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdelghanix10&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdelghanix10&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdelghanix10&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdelghanix10&theme=radical&utcOffset=8">
+</div>
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=meriamsikini&theme=radical&no-frame=false&no-bg=false&margin-w=8)
