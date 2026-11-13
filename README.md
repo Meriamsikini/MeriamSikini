@@ -4,7 +4,7 @@
 <h3 align="center">📊 Data & AI Engineer | Passionate About Data-Driven Innovation</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meriamsikini&label=Profile%20views&color=0e75b6&style=flat" alt="meriamsikini" /> </p>
+
 
 
 
